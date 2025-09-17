@@ -71,3 +71,4 @@ table caption {
 tr:nth-child(even) {
     background-color: var(--row-bg-color);
 }
+
