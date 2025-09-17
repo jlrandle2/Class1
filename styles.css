@@ -63,3 +63,8 @@ table caption {
 tr:nth-child(even) {
     background-color: var(--row-bg-color);
 }
+
+#game-table tr:hover {
+    background-color: lightyellow;
+    cursor: pointer;
+  }
